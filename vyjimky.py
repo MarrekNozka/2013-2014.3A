@@ -4,6 +4,9 @@ from __future__ import unicode_literals
 
 x = raw_input('zadej  cislo > ')
 
+print 4 + 'abc'
+
+
 try:
     print 5*7
     print 5*12
