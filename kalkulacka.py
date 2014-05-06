@@ -32,7 +32,7 @@ def zpracujVstup():
             zasobnik += [a-b]
         elif vstup == '*':
             zasobnik += [a*b]
-        elif vstup == '/':
+        elif vstup == '/':c
             zasobnik += [a/b]
         return
     try:
